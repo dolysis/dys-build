@@ -1,0 +1,9 @@
+[submodule "dys-lib-console"]
+	path = dys-lib-console
+	url = https://github.com/dolysis/dys-lib-console.git
+[submodule "dys-lib-message"]
+	path = dys-lib-message
+	url = https://github.com/dolysis/dys-lib-message.git
+[submodule "dys-get-console"]
+	path = dys-get-console
+	url = https://github.com/dolysis/dys-get-console.git
