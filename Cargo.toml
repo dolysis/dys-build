@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "dys-get-console",
+]
+
+default-members = [
+  "dys-get-console",
+]
+
