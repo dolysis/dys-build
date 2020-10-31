@@ -1,9 +1,10 @@
 [workspace]
 members = [
-  "dys-get-console",
+    "dys-get-console",
+    "dys-lib-console",
 ]
-
 default-members = [
-  "dys-get-console",
+    "dys-get-console",
+    "dys-lib-console",
 ]
 
