@@ -5,5 +5,9 @@ name = "dys-get-console"
 version = "0.1.0"
 
 [[package]]
+name = "dys-lib-cli"
+version = "0.1.0"
+
+[[package]]
 name = "dys-lib-console"
 version = "0.1.0"

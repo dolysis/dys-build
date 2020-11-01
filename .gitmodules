@@ -7,3 +7,6 @@
 [submodule "dys-get-console"]
 	path = dys-get-console
 	url = https://github.com/dolysis/dys-get-console.git
+[submodule "dys-lib-cli"]
+	path = dys-lib-cli
+	url = https://github.com/dolysis/dys-lib-cli.git

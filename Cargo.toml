@@ -1,10 +1,5 @@
 [workspace]
-members = [
-    "dys-get-console",
-    "dys-lib-console",
-]
-default-members = [
-    "dys-get-console",
-    "dys-lib-console",
-]
+members = [ "dys-get-console", "dys-lib-console", "dys-lib-cli", ]
+default-members = [ "dys-get-console", ]
+exclude = []
 
